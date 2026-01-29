@@ -1,10 +1,10 @@
-<h2>Bem-vindo(a) ao perfil da Klara 😁</h2>
+## Bem-vindo(a) ao perfil da Klara 😁
 
 <div>
-   <a href="https://github.com/klaraamiranda-jpg" target="_blank">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&langs_count=6&theme=ambient_gradient"/>
-   </a>
+  <a href="https://github.com/klaraamiranda-jpg">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&langs_count=6&theme=radical"/>
+  </a>
 </div>
     
 <div style="display: inline_block; margin-top: 20px;">
