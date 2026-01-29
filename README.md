@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/klaraamiranda-jpg">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=klaraamiranda-jpg&theme=ambientgradient&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=klaraamiranda-jpg&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
