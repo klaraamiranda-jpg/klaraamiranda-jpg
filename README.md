@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Anna Klara 👋
 
 💻 Estudante de Sistemas de Informação (IFG)  
-⚖️ Bacharel em Direito pela Pontifícia Universidade Católica de Goiás (PUC GO)  
+⚖️ Formação Jurídica pela PUC GO  
 🔐 Interesse em cibersegurança, proteção de dados, LGPD e segurança da informação  
 📚 Experiência com processos digitais, sistemas eletrônicos (SEI) e gestão de informações no setor público.
 
