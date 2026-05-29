@@ -19,9 +19,9 @@ Busco desenvolver conhecimentos em programação, tecnologia e segurança da inf
 
 ## GitHub Stats
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=tokyonight)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&theme=tokyonight)
 
 ## Contato
 
