@@ -16,12 +16,11 @@ Possuo formação e experiência profissional na área jurídica e atualmente cu
 
 Busco desenvolver conhecimentos em programação, tecnologia e segurança da informação, combinando minha experiência em processos, conformidade, gestão pública e proteção de dados com soluções tecnológicas eficientes e seguras.
 
-
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=tokyonight)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=klaraamiranda-jpg&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&theme=tokyonight)
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klaraamiranda-jpg&layout=compact&theme=tokyonight&hide_border=true" />
 
 ## Contato
 
