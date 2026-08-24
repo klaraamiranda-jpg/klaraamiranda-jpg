@@ -2,7 +2,7 @@
 
 🎓 Estudante de Sistemas de Informação (IFG)
 
-🔐 Interesse em Segurança da Informação, Cibersegurança, Governança, LGPD, Automação e Desenvolvimento.
+🔐 Interesse em  Desenvolvimento.
 
 💻 Desenvolvendo conhecimentos em programação, estruturas de dados, Linux, Git e Segurança da Informação.  
 
