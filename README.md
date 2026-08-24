@@ -20,7 +20,7 @@ Em construção...
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| [prazo-juridico-py](#) | Calculadora de prazos processuais (CPC) | Python | 🔨 Em breve |
+| [prazo-juridico-py](./prazo-juridico-py) | Calculadora de prazos processuais (CPC) | Python | ✅ |
 | [checklist-lgpd-web](#) | Verificador de conformidade com a LGPD | HTML, JS | 🔨 Em breve |
 | [sistema-processos-juridicos](#) | Sistema de gestão de processos administrativos | Python, SQL, JS | 🔨 Em breve |
 | [scanner-seguranca-py](#) | Ferramenta básica de diagnóstico de segurança | Python | 🔨 Em breve |
