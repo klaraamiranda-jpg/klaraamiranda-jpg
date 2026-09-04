@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checklist LGPD</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Verificador de conformidade com a LGPD</h1>
+        <p>Autoavaliação rápida com base na Lei nº 13.709/2018 (Lei Geral de Proteção de Dados).</p>
+      </header>
+
+      <p class="aviso">
+        Esta ferramenta é educativa e orientativa: ajuda a mapear pontos de atenção, mas não
+        substitui uma análise jurídica formal de conformidade com a LGPD. Todas as respostas
+        ficam salvas apenas neste navegador (localStorage) — nada é enviado para nenhum servidor.
+      </p>
+
+      <section class="painel-score" aria-live="polite">
+        <div class="score-cabecalho">
+          <span>Pontuação geral</span>
+          <span id="score-valor" class="score-valor">0%</span>
+        </div>
+        <div class="score-barra">
+          <div id="score-barra" class="score-barra-preenchida" style="width: 0%"></div>
+        </div>
+        <p id="score-resumo" class="score-resumo"></p>
+      </section>
+
+      <div class="barra-acoes">
+        <label class="filtro">
+          <input type="checkbox" id="filtro-pendentes" />
+          Mostrar somente itens pendentes
+        </label>
+        <div class="acoes">
+          <button id="botao-exportar" type="button">Exportar relatório (.txt)</button>
+          <button id="botao-reset" type="button">Limpar respostas</button>
+        </div>
+      </div>
+
+      <main id="categorias"></main>
+
+      <footer>
+        <p id="atualizado-em"></p>
+      </footer>
+    </div>
+
+    <script src="checklist.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
